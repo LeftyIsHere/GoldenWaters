@@ -1,6 +1,9 @@
-**WELCOME TO GOLDEN WATERS**
+**WELCOME TO THE GOLDEN WATERS ISSUE TRACKER**
 
-Welcome to Golden Waters! We are a semi vanilla, anti grief smp with a kind community! Come join us for a fun time!
+Welcome! This repo is used to suggest changes to the server or report bugs.
+To get started, click the "Issues" tab and click "New Issue." If you don't have a GitHub account, you'll need to create one.
+Next, select the type of issue you want to make: Bug Report or Feature Request.
+Lastly, fill out the required information and hit submit.
 
 **FAQ**
 
@@ -12,6 +15,6 @@ Welcome to Golden Waters! We are a semi vanilla, anti grief smp with a kind comm
 
 **Donate:** https://golden-waters.tebex.io/
 
-**Staff** Applications: https://forms.gle/jBpcCEBNidpaQdsJA
+**Staff Applications:** https://forms.gle/jBpcCEBNidpaQdsJA
 
 **Discord Invite:** https://discord.gg/acH3sW3
