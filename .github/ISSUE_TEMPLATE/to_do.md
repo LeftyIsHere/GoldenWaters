@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: To Do
 about: Suggest an idea for this project
 title: "[TO DO] "
 labels: To Do
